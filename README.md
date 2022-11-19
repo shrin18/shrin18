@@ -2,7 +2,7 @@
 - 👀 I’m interested in telecom projects and coding !
 - 🌱 I’m currently learning about Cloud RAN and it usage in the real world !
 - 💞️ I’m looking to collaborate on new interesting technolgies related to RAN deployments.
-- 📫 How to reach me dondeshrinish@gmail.com
+- 📫 How to reach me: dondeshrinish@gmail.com
 
 <!---
 shrin18/shrin18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
