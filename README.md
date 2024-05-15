@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shrin18
-- 👀 I’m interested in telecom projects and coding
-- 🌱 I’m currently learning about Cloud RAN and it usage in the real world
+- 👀 I’m interested in telecom projects related to SW development testbed setup
+- 🌱 I’m currently learning about <Open> RAN and it's usage in the real world
 - 📫 How to reach me: dondeshrinish@gmail.com
 
 <!---
